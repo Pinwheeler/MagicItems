@@ -1,3 +1,11 @@
+# Intro
+
+homebrew magic items table for D&D 5th ed. 
+
+* Very few are playtested so use at your own risk.
+* If an item refers to a 'bearer' this is the person who is attuned to it
+* feel free to edit! I'll get a pull request and merge it in if it isn't trolling/sucky
+
 ##Weapons
 Name          |   Rarity    | Type | Attunement? | Description
 ------------- | -------------| -------- | ------------ | -----------
