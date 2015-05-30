@@ -5,6 +5,7 @@ homebrew magic items table for D&D 5th ed.
 * Very few are playtested so use at your own risk.
 * If an item refers to a 'bearer' this is the person who is attuned to it
 * feel free to edit! I'll get a pull request and merge it in if it isn't trolling/sucky
+* Please feel free to credit yourself if you add one! I was a shitty 17 year old when I started this list and didn't think to get peoples' names when I started the list so __not all of these are by me__. If you are the original creator of an item, please feel free to credit yourself in this.
 
 ##Weapons
 Name          |   Rarity    | Type | Attunement? | Description
