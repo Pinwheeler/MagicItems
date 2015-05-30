@@ -5,12 +5,29 @@ Wick's Edge | Very Rare | Scythe | YES | Wick was a necromancer of great reknown
 Cudgel of Conjure Earth | Rare | Club | YES | Wherever this club hits, a mound of dirt equal to 1 cubic foot of dirt is dropped. This dirt disappears in 1d6+1 hours
 Thug Knife | Uncommon | Dagger | NO |Deals damage based on how stupid the wielder is [1d4 Slashing + 1 Slashing for every negative INT modifier the character has]
 Javelin of Mana Fields | Legendary | Javelin | YES | Indestructible javelin. When this javelin is thrown, wherever it lands, a circle with radius 50ft. is created that becomes arcane land. Any arcane spells that are cast while the caster is standing on arcane land use a spell slot one lower than their actual spell slot.
+Sorrowful Weapon | Uncommon | Weapon Template | YES | These weapons tap into the weilder's emotions to deal additional damage. After dealing significant damage, however, they leave the weilder emotionally vulnerable for a time. [Deals normal damage + (1d6 Negative Energy)] (If dealing a killing blow with a sorrowful weapon, the weilder takes 1 temporary CHA damage that heals after a long rest)
+Weapon of Targeting | Rare | Weapon Template | YES | weapon that when it hits, curses the target, causing all attacks made against them have advantage. This effect goes away once another target is hit
+Dreamer's Weapon | Rare | Weapon Template | YES | The bearer of this weapon can choose to go to sleep wielding it and can enter into a state of half--wakefulness. In this state, the sleeper can move and make attacks with the Dreamer's Weapon, but attacks against it have advantage. Sleeping in this way confers all benefits of a full rest. If the dreamer takes damage, they may choose to wake up, but lose all benefits of the rest
+Fatestring Bow | Legendary | Bow | YES | When this bow is shot, wherever the arrow lands, the shooter is teleported to that location
+Infidel | Rare | Mace | YES |  +1 mace Hit: 3 (1d6 +1) bludgeoning damage. A target hit by Infidel must make a CHA saving throw (DC 13 or damage dealt whichever is higher). Upon failing, the target is affected by an effect that is identical in nature to a Bane spell, but only lasts one combat round. Furthermore, infidel gives advantage on attack rolls when used against targets with a lawful alignment once per target. If Infidel is brought to a plane of existance with the lawful subtype, it is instantly destroyed.
+Ironwrought Staff | Rare | Quarterstaff| YES | +1 Quarterstaff. If the bearer casts a spell that deals damage, they may decide to change the damage type of the spell to be nonmagical slashing, piercing, or bludgeoning. This decision can be made after damage is rolled, but before the DM describes the effects of the spell.
+Moonlit Weapon | Uncommon | Weapon Template | YES | The weapon glows with a pale light as a Light spell targeting the weapon. The light from the weapon can only be seen by the bearer and lycanthropes
 
 ##Armors & Clothing
 Name          |   Rarity    | Type | Attunement? | Description
 ------------- | -------------| -------- | ------------ | -----------
 Cloak of Mudmelt | Uncommon | Cloak | YES | 3x/Day, the wearer can melt into a muddy puddle, vanishing completely for up to 1 hour If the puddle dries up, the character instantly dies.
 Hat of Neverending Vermin | Rare | Item | NO | Upon reaching into this hat, you are destined to pull out a living, breathing, scrambling creature just dying to escape. The hat gives no command or special benefits to controlling the vermin. Roll a 1d6 to determine the vermin type (1=Mouse 2=Mole 3=Rabbit 4=Weasel 5=Fox 6=Badger)
+Unknowable Buckler | Rare | Shield | YES | Anyone who wears this buckler cannot be named, althought they can be recognized
+Festering Boots | Very Rare | Cursed Boots | YES | These boots are diseased and filled with worms and grubs. They lower the wearer's CHA by 4 and CON by 2. They grant mind control over nearby insects and can be used to cast Giant Insect as a 4th level spell once per day
+Skull Cap | Very Rare | Cursed Helm | | YES | This item is made out of human skull. If worn, will cause the wearer's skin and organs to become invisible making them look like a skeleton. They suffer disadvantage on all CHA checks except for intimidation for which they gain advantage and double their proficiency bonus (if any)
+Dour Gloves of the Jeeves | Very Rare | Gloves | YES | When you snap the fingers of these gloves, a magical butler is sumoned who will do your bidding so long as it is related to some high society task. The butler will not attack or defend you physically
+Merpants | Uncommon | Cursed Pants | NO | Causes the wearer to grow a mermaid tail, gain the ability to breathe under water and swim speed on 45ft Makes walking impossible can only be removed by a 'Remove Curse' spell
+Gauntlets of 6-Fingered Jick | Legendary | Gloves | YES | These gloves were made for the semi-famous rogue 6-Fingered Jick. They give the bearer an additional bonus action per round
+Moleplate Gauntlets | Very Rare | Gloves | YES | Bearer can dig a tunnel suitable for a creature of their size through solid earth/stone. Their movespeed while digging in this way is reduced to 5ft. Digging a 5ft tunnel requires a standard action and can only be done if within melee range of the stone/earth
+Moleplate Gauntlets | Very Rare | Necklace | YES | Gives advantage on any charisma check. Once used, the bearer must perform an act of charity to recharge it
+
+
 
 ##Jewelry
 Name          |   Rarity    | Type | Attunement? | Description
@@ -28,6 +45,8 @@ Name          |   Rarity    | Type | Attunement? | Description
 Poison of Defenstration | Uncommon | Poison | NO | When someone drinks or is inflicted by this poison, they are immediately flung out the nearest window. They will take appropriate fall damage
 Wallflower Tincture | Common | Potion | NO | Makes the drinker unremarkable and generally unnoticable. Gain a +10 to hide, bluff, and disguise checks so long as you are acting nonchalant. Duration: 2 hours
 Tears of the Fibrous God | Uncommon | Potion | NO | Makes the drinker INCREDIBLY good at using rope. Advantage on any skill checks where the goal is to use rope in some way. Duration 2 hours
+Glorified Elixer of Necromantic Transformation | Uncommon | Potion | NO | Causes the drinker to temporarily gain the "Undead" subtype. The effect wears off in 4d6 hours
+
 
 ##Wands & Rods
 Name          |   Rarity    | Type | Attunement? | Description
@@ -47,3 +66,10 @@ Hot Box | Uncommon | Item | NO | This iron box contains a leak to the Plane of F
 Quill of Signing | Rare | Item | NO | When a contract is signed with one of these quills, it compells the signer to abide by the terms of the contract as if they were under the effects of a Geas spell.
 Rapidsapling | Uncommon | Item | NO | A seed that will grow into a full sized oak tree (60 Ft) in one hour
 Meteoric Bar | Rare | Item | NO | When activated, this bar will constantly move up at a rate of 1ft per minute. It can carry up to 300lbs with no problem, otherwise it moves at half speed up to a final maximum weight of 450lbs
+String of Necessity | Rare | YES | When this string is used for a purpose, it will never fail at this purpose so long as the purpse is vital to the bearer. It is still only a piece of string
+Horn of Unconventional Weather | Very Rare | Instrument | YES | When blown, creates a strange weather event. Roll d6 to determine the event (1 = It begins raining glitter, 2=A thunderstorm begins, but the thunder sounds like a really loud hiccup, 3=It starts literally raining cats and dogs, 4=Conjure Tornado 5=A sheet of 3 feet of snow falls, the sky remains clear, 6= Raining leprachuan gold
+Disks of One | Legendary | Item | NO | Two disks that act normally when they are together, but with an incantation <"Operandi"> they separate and at that point anything that is done to the disk in the hand of the incanter will be done to the other disk as if they were the same object. This limits the force applied by the disk to the force that could be applied by the incanter.
+Bridle of Banter | Uncommon | Item | NO | When put on a mount, enables the mount to speak common
+Key of Closets | Very Rare | Item | NO | When you use this key to unlock a door, it instantly becomes a magical closet room with just enough space for everyone in the party to squeeze in and be slightly uncomfortable
+
+
